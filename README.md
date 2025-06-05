@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishikarreddy/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishikarreddy/Leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rishikarreddy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/rishikarreddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rishikarreddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rishikarreddy/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rishikarreddy/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/rishikarreddy/Leetcode/tree/master/0383-ransom-note) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
