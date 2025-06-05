@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rishikarreddy/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
+| [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rishikarreddy/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
