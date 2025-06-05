@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishikarreddy/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
