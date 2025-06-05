@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishikarreddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishikarreddy/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rishikarreddy/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishikarreddy/Leetcode/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikarreddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3737-paint-house-iv](https://github.com/rishikarreddy/Leetcode/tree/master/3737-paint-house-iv) |
 ## Combinatorics
