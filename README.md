@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rishikarreddy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/rishikarreddy/Leetcode/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/rishikarreddy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rishikarreddy/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/rishikarreddy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/rishikarreddy/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/rishikarreddy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
