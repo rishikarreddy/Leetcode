@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/rishikarreddy/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3737-paint-house-iv](https://github.com/rishikarreddy/Leetcode/tree/master/3737-paint-house-iv) |
 ## Combinatorics
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rishikarreddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rishikarreddy/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Linked List
 |  |
 | ------- |
