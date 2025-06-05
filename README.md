@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishikarreddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishikarreddy/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rishikarreddy/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rishikarreddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikarreddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rishikarreddy/Leetcode/tree/master/0136-single-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishikarreddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rishikarreddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishikarreddy/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rishikarreddy/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rishikarreddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rishikarreddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rishikarreddy/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/rishikarreddy/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rishikarreddy/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/rishikarreddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rishikarreddy/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/rishikarreddy/Leetcode/tree/master/0205-isomorphic-strings) |
