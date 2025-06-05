@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rishikarreddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rishikarreddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/rishikarreddy/Leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/rishikarreddy/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rishikarreddy/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rishikarreddy/Leetcode/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/rishikarreddy/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Greedy
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
 | ------- |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/rishikarreddy/Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
