@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/rishikarreddy/Leetcode/tree/master/3651-transformed-array) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/rishikarreddy/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3737-paint-house-iv](https://github.com/rishikarreddy/Leetcode/tree/master/3737-paint-house-iv) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rishikarreddy/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3737-paint-house-iv](https://github.com/rishikarreddy/Leetcode/tree/master/3737-paint-house-iv) |
 ## Combinatorics
 |  |
 | ------- |
