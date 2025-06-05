@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rishikarreddy/Leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rishikarreddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3632-button-with-longest-push-time](https://github.com/rishikarreddy/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3651-transformed-array](https://github.com/rishikarreddy/Leetcode/tree/master/3651-transformed-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rishikarreddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Two Pointers
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishikarreddy/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishikarreddy/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
