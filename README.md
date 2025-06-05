@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishikarreddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rishikarreddy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/rishikarreddy/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/rishikarreddy/Leetcode/tree/master/1635-number-of-good-pairs) |
