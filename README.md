@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rishikarreddy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/rishikarreddy/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/rishikarreddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rishikarreddy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rishikarreddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishikarreddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rishikarreddy/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rishikarreddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
