@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishikarreddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/rishikarreddy/Leetcode/tree/master/0383-ransom-note) |
+| [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/rishikarreddy/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishikarreddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/rishikarreddy/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1297-maximum-number-of-balloons](https://github.com/rishikarreddy/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
@@ -149,9 +151,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/rishikarreddy/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/rishikarreddy/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
