@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikarreddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishikarreddy/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rishikarreddy/Leetcode/tree/master/0392-is-subsequence) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3737-paint-house-iv](https://github.com/rishikarreddy/Leetcode/tree/master/3737-paint-house-iv) |
@@ -112,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rishikarreddy/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
