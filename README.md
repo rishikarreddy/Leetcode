@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishikarreddy/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rishikarreddy/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rishikarreddy/Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/rishikarreddy/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rishikarreddy/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rishikarreddy/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Hash Table
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/rishikarreddy/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/rishikarreddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/rishikarreddy/Leetcode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/rishikarreddy/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
